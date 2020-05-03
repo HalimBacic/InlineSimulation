@@ -1,0 +1,6 @@
+C:\Users\bacic\Desktop\S1\FM\InlineVer3C++\InlineVer3C++\bin\Debug\InlineVer3C++.exe
+C:\Users\bacic\Desktop\S1\FM\InlineVer3C++\InlineVer3C++\bin\Debug\InlineVer3C++.pdb
+C:\Users\bacic\Desktop\S1\FM\InlineVer3C++\InlineVer3C++\obj\Debug\InlineVer3C++.csprojResolveAssemblyReference.cache
+C:\Users\bacic\Desktop\S1\FM\InlineVer3C++\InlineVer3C++\obj\Debug\InlineVer3C++.csproj.CoreCompileInputs.cache
+C:\Users\bacic\Desktop\S1\FM\InlineVer3C++\InlineVer3C++\obj\Debug\InlineVer3C++.exe
+C:\Users\bacic\Desktop\S1\FM\InlineVer3C++\InlineVer3C++\obj\Debug\InlineVer3C++.pdb
